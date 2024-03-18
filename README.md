@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently thinking about working on Artificial intelligence & machine learning 
 - 🌱 I’m currently learning python 
-- 👯 I’m looking to collaborate on Full-stack development projects
+- 👯 I’m looking to collaborate on Full-stack development projects,
 Web3 blockchain development
 Artificial Intelligence and Machine Learning research or development
 Data analysis or visualization projects
